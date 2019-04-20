@@ -67,7 +67,8 @@
             "Rector\\Shopware\\": "packages/Shopware/src",
             "Rector\\NetteTesterToPHPUnit\\": "packages/NetteTesterToPHPUnit/src",
             "Rector\\Nette\\": "packages/Nette/src",
-            "Rector\\SOLID\\": "packages/SOLID/src"
+            "Rector\\SOLID\\": "packages/SOLID/src",
+            "Rector\\StaticBurner\\": "packages/StaticBurner/src"
         }
     },
     "autoload-dev": {
@@ -102,7 +103,8 @@
             "Rector\\Shopware\\Tests\\": "packages/Shopware/tests",
             "Rector\\NetteTesterToPHPUnit\\Tests\\": "packages/NetteTesterToPHPUnit/tests",
             "Rector\\Nette\\Tests\\": "packages/Nette/tests",
-            "Rector\\SOLID\\Tests\\": "packages/SOLID/tests"
+            "Rector\\SOLID\\Tests\\": "packages/SOLID/tests",
+            "Rector\\StaticBurner\\Tests\\": "packages/StaticBurner/tests"
         },
         "classmap": [
             "packages/Symfony/tests/Rector/FrameworkBundle/AbstractToConstructorInjectionRectorSource",
