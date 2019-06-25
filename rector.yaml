@@ -17,4 +17,5 @@ parameters:
     php_version_features: '7.1'
 
 services:
+    Rector\Shopware\Rector\MethodCall\Shopwareevents: ~
 #    Rector\CodingStyle\Rector\Namespace_\ImportFullyQualifiedNamesRector: ~
